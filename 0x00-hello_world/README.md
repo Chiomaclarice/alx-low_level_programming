@@ -1,1 +1,1 @@
-script compiles c file but does not link
+script prints assembly code
