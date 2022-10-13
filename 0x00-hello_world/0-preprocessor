@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc $CFILE="A" -o c
+gcc $CFILE=A -o c
