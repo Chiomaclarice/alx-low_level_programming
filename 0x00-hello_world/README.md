@@ -1,1 +1,1 @@
-script prints assembly code
+script prints an executable file
