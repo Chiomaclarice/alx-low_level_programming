@@ -1,1 +1,1 @@
-script prints intel
+script generates assembly code
