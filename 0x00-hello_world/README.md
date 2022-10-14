@@ -1,1 +1,1 @@
-updated quote.c
+program prints size of data types
