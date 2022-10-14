@@ -1,1 +1,1 @@
-program prints exactly output
+updated quote.c
