@@ -1,1 +1,1 @@
-printf
+script prints intel
