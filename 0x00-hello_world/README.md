@@ -1,1 +1,1 @@
-script generates assembly code
+script prints assembly code
