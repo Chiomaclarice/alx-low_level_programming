@@ -1,1 +1,1 @@
-script prints an executable file
+printf
