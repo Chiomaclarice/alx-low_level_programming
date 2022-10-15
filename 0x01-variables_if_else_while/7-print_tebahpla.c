@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
-  *main program point
+  *main-program entry point
   *Return:0 if no error, non zero value if no error
 **/
 
