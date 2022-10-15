@@ -1,7 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
-
 #include <time.h>
+/**
+  *main-program entry
+  *Return:0 if no error, non zero value if error
+**/
 
 /* more headers goes there */
 
