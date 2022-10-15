@@ -1,1 +1,1 @@
-task 0- the program assigns random number to n
+program prints lowercase alphabets a-z
