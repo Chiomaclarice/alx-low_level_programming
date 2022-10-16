@@ -30,7 +30,6 @@ int main(void)
 		}
 	}
 			k++;
-
 			putchar('\n');
 			return (0);
 }
