@@ -6,10 +6,13 @@
 
 int main(void)
 {
-	int i, k = '0', j;
+	int i;
+	int k = '0';
+	int j;
 
 	for (i = '0'; i <= '9'; i++)
 	{
+		for (j = k; j <= '9'; j++)
 		if (i != j)
 		{
 			putchar(i);
