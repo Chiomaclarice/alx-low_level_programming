@@ -10,10 +10,10 @@ char j, i;
 
 	for (i = 0; j < 9; j++)
 	{
-	for (j = 'a' j <= 'z'; j++)
+	for (j = 'a'; j <= 'z'; j++)
 	{
 		_putchar('j');
-	}		
+	}
 		_putchar('\n');
 	}
 }
