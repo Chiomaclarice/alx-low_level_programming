@@ -4,12 +4,13 @@
   *Return:On success 1.
 */
 
-void print_alphabet_x10(void);
+	void print_alphabet_x10(void);
 {
-char j, i;
+	char j, i;
 
-	for (i = 0; j < 9; j++)
+	for (i = 0; j < 10; j++)
 	{
+
 	for (j = 'a'; j <= 'z'; j++)
 	{
 		_putchar('j');
