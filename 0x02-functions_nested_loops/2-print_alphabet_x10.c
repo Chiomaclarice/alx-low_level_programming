@@ -1,16 +1,16 @@
 #include "main.h"
 /**
   *print_alphabet_x10 - prints all lowercase alphabet ten times
-  *Return:On success 1.
+  *Return: x10 a-z.
 */
 
 	void print_alphabet_x10(void);
 {
-	char j, count;
+	int j, count;
 
 	count = 0;
 
-	while (count <= '9')
+	while (count <= 9)
 	{
 
 	for (j = 'a'; j <= 'z'; j++)
