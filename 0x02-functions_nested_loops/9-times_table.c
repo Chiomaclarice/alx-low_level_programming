@@ -21,7 +21,6 @@ void times_table(void)
 
 		_putchar(44);
 		_putchar(32);
-		}
 
 		if (multi <= 9)
 		{
@@ -34,6 +33,7 @@ void times_table(void)
 			{
 			_putchar((multi / 10) + 48);
 			_putchar((multi % 10) + 48);
+			}
 		}
 			_putchar('\n');
 }
