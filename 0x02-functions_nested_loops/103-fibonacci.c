@@ -16,7 +16,7 @@ int main(void)
 
 	fn = afn = 0;
 
-	while (fn <= 40000)
+	while (fn <= 4000000)
 	{
 	fn = n1 + n2;
 	n1 = n2;
