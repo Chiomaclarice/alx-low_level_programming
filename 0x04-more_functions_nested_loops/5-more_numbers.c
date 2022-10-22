@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-  *more_numbers - prints numbers  to 14
+  *more_numbers - prints numbers between 0 to 14
   *10 times
   *return: no return
 */
