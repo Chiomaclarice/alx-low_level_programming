@@ -1,4 +1,4 @@
-#include "main.h"
+i#include "main.h"
 /**
   * print_diagonal- print diagonal line n times
   * @n:-number of times diagonal n line is printed
@@ -15,9 +15,13 @@ void print_diagonal(int n)
 	{
 		_putchar(' ');
 	}
+
 		_putchar(92);
-		if (1 < (n - 1))
+		if (n == 0 || n < 0)
+		{
 		_putchar('\n');
 	}
+
 		_putchar('\n');
+}
 }
